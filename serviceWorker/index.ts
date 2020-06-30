@@ -1,8 +1,8 @@
-const cacheName = "LabAuthCache"
+const cacheName = "tingoMaxoChatoCache"
 
 
 self.addEventListener("install", function (event) {
-  console.log("[SW - LabAuth] Installing");
+  console.log("[SW - Tingo maxo chato] Installing");
 });
 
 

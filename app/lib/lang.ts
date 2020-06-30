@@ -3,7 +3,7 @@ import ger from "./../res/lang/ger.json"
 
 interface Lang {
   "tingoMaxoChato": {
-    "name": "Tingo maxo chato"
+    "longName": "Tingo maxo chato"
   }
 }
 
